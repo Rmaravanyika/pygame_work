@@ -1,5 +1,5 @@
-Pygame development
-======================
+Game development using Pygame
+==============================
 
 The repo is just a basic structure of pygame racing and dodging game.Pygame is a python library that allow us to develop games.l do accept comments 
 or if you want to contribute to this repo i welcome that.If you have more experience with pygame please get in touch with me.l'm
